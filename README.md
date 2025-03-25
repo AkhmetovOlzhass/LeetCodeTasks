@@ -20,6 +20,7 @@ Each folder includes the problem description, my solution, and submission detail
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -68,4 +69,8 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0374-guess-number-higher-or-lower) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
