@@ -61,4 +61,9 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0162-find-peak-element) |
+| [0374-guess-number-higher-or-lower](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
