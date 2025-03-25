@@ -14,3 +14,15 @@ Each folder includes the problem description, my solution, and submission detail
 - ✅ The accepted solution
 - 📝 Code written in C++
 - 📄 Automatically synced with [LeetHub](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0026-remove-duplicates-from-sorted-array) |
+<!---LeetCode Topics End-->
