@@ -20,11 +20,13 @@ Each folder includes the problem description, my solution, and submission detail
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2145-grid-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2145-grid-game) |
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1454-remove-palindromic-subsequences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1454-remove-palindromic-subsequences) |
@@ -45,4 +47,8 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2145-grid-game) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
