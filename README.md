@@ -35,6 +35,7 @@ Each folder includes the problem description, my solution, and submission detail
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1454-remove-palindromic-subsequences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1454-remove-palindromic-subsequences) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## String Matching
 |  |
 | ------- |
@@ -51,4 +52,8 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0016-3sum-closest) |
+## Simulation
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
