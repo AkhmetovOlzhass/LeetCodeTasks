@@ -21,6 +21,7 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2145-grid-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2145-grid-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,4 +35,12 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [2145-grid-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2145-grid-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [2145-grid-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2145-grid-game) |
 <!---LeetCode Topics End-->
