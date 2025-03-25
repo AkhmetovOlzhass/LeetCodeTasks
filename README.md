@@ -10,7 +10,7 @@ Each folder includes the problem description, my solution, and submission detail
 - 📦 Organize all LeetCode solutions in one place
 - 🚀 Showcase my problem-solving skills
 
-Each folder contains:
+## Each folder contains:
 - ✅ The accepted solution
 - 📝 Code written in C++
 - 📄 Automatically synced with [LeetHub](https://github.com/arunbhardwaj/LeetHub-2.0)
