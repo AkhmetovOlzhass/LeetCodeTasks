@@ -26,6 +26,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0162-find-peak-element) |
 | [2145-grid-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -55,6 +57,7 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0016-3sum-closest) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -73,4 +76,8 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
