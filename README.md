@@ -25,6 +25,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0162-find-peak-element) |
+| [1751-slowest-key](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1751-slowest-key) |
 | [2145-grid-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Two Pointers
@@ -40,6 +41,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1454-remove-palindromic-subsequences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1454-remove-palindromic-subsequences) |
+| [1751-slowest-key](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1751-slowest-key) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2580-circular-sentence](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2580-circular-sentence) |
 ## String Matching
