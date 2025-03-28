@@ -39,6 +39,7 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1454-remove-palindromic-subsequences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1454-remove-palindromic-subsequences) |
 | [1751-slowest-key](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1751-slowest-key) |
@@ -80,8 +81,13 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0001-two-sum) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Math
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+## Counting
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0920-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->
