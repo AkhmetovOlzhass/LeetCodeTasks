@@ -102,6 +102,7 @@ Each folder includes the problem description, my solution, and submission detail
 ## Math
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1013-fibonacci-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Counting
 |  |
@@ -120,4 +121,16 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
