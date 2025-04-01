@@ -22,9 +22,6 @@ public:
             answer.push_back(color_freq.size());
         }
 
-        for(int i = 0; i<answer.size(); i++){
-            cout << answer[i];
-        }
         return answer;
     }
 };
