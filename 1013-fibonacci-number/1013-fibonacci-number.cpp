@@ -1,11 +1,6 @@
 class Solution {
 public:
-    // int F(int n, int sum) {
-    //     if(n == 0) return 0;
-    //     n--;
-    //     sum += dp(n)
-    //     return sum
-    // }
+
 
     int fib(int n) {
         int sum = 0;
