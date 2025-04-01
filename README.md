@@ -124,6 +124,7 @@ Each folder includes the problem description, my solution, and submission detail
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -133,4 +134,8 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
