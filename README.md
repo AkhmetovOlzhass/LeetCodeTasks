@@ -103,6 +103,7 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1086-divisor-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Counting
 |  |
@@ -126,6 +127,7 @@ Each folder includes the problem description, my solution, and submission detail
 | ------- |
 | [0338-counting-bits](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1086-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -138,4 +140,12 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0338-counting-bits) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
