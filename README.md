@@ -29,6 +29,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [1468-check-if-n-and-its-double-exist](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1751-slowest-key](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1751-slowest-key) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
