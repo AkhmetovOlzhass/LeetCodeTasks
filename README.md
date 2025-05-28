@@ -31,6 +31,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [1751-slowest-key](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1751-slowest-key) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2048-build-array-from-permutation](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2058-concatenation-of-array) |
 | [2145-grid-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3194-find-words-containing-character](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3194-find-words-containing-character) |
@@ -81,6 +82,7 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Binary Search
