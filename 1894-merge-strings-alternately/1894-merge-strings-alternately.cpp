@@ -8,10 +8,10 @@ public:
 
         while(i < word1.size() || j<word2.size()){
             if(i<word1.size()){
-                res += word1[i++];
+                res.push_back(word1[i++]);
             }
             if(j<word2.size()){
-                res += word2[j++];
+                res.push_back(word2[j++]);
             }
         }
 
