@@ -45,6 +45,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1454-remove-palindromic-subsequences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1454-remove-palindromic-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1894-merge-strings-alternately](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1454-remove-palindromic-subsequences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1454-remove-palindromic-subsequences) |
 | [1751-slowest-key](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1751-slowest-key) |
+| [1894-merge-strings-alternately](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2260-divide-a-string-into-groups-of-size-k) |
