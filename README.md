@@ -30,6 +30,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1751-slowest-key](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1751-slowest-key) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2058-concatenation-of-array) |
 | [2145-grid-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2145-grid-game) |
@@ -111,6 +112,7 @@ Each folder includes the problem description, my solution, and submission detail
 | ------- |
 | [1013-fibonacci-number](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1086-divisor-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Counting
 |  |
@@ -147,6 +149,7 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0338-counting-bits) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Brainteaser
 |  |
 | ------- |
@@ -155,4 +158,16 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1086-divisor-game) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
