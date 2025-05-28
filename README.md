@@ -33,6 +33,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [2048-build-array-from-permutation](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2048-build-array-from-permutation) |
 | [2145-grid-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3194-find-words-containing-character](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3194-find-words-containing-character) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Two Pointers
 |  |
@@ -55,6 +56,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2580-circular-sentence](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2580-circular-sentence) |
+| [3194-find-words-containing-character](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3194-find-words-containing-character) |
 ## String Matching
 |  |
 | ------- |
