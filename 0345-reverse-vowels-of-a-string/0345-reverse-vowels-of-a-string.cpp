@@ -1,21 +1,21 @@
 class Solution {
 public:
     string reverseVowels(string s) {
-        string res = "";
-        vector<int> arr;
-        for(int i = 0; i<s.size(); i++){
-            if(tolower(s[i]) == 'a' || tolower(s[i]) == 'e' || tolower(s[i]) == 'i' || tolower(s[i]) == 'o' || tolower(s[i]) == 'u'){
-                res = s[i] + res;
-                arr.push_back(i);
+        int k = 0;
+        int n = s.size() -1;
+        while( k < n){
+            while(k<n && tolower(s[k]) != 'a' && tolower(s[k]) != 'e' && tolower(s[k]) != 'i' && tolower(s[k]) != 'o' && tolower(s[k]) != 'u'){
+                k++;
             }
-        } 
 
-        int j = 0;
-        for(int i = 0; i< s.size() && j < arr.size(); i++){
-            if(i == arr[j]){
-                s[i] = res[j];
-                j++;
+            while (k<n && tolower(s[n]) != 'a' && tolower(s[n]) != 'e' && tolower(s[n]) != 'i' && tolower(s[n]) != 'o' && tolower(s[n]) != 'u'){
+                n--;
             }
+
+            swap(s[k], s[n]);
+
+            k++;
+            n--;
         }
 
         return s;
