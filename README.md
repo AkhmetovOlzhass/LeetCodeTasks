@@ -45,6 +45,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0016-3sum-closest](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0151-reverse-words-in-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0345-reverse-vowels-of-a-string) |
 | [1454-remove-palindromic-subsequences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1454-remove-palindromic-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -53,6 +54,7 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0151-reverse-words-in-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0345-reverse-vowels-of-a-string) |
 | [0720-longest-word-in-dictionary](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0720-longest-word-in-dictionary) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0920-uncommon-words-from-two-sentences) |
