@@ -21,6 +21,7 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -45,6 +46,7 @@ Each folder includes the problem description, my solution, and submission detail
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -193,6 +195,7 @@ Each folder includes the problem description, my solution, and submission detail
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
