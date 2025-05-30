@@ -51,6 +51,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0151-reverse-words-in-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0443-string-compression) |
 | [1454-remove-palindromic-subsequences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1454-remove-palindromic-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -61,6 +62,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0443-string-compression) |
 | [0720-longest-word-in-dictionary](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0720-longest-word-in-dictionary) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -152,6 +154,7 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1086-divisor-game) |
 ## Recursion
