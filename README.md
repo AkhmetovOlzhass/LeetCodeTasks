@@ -49,6 +49,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0443-string-compression) |
 | [1454-remove-palindromic-subsequences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1454-remove-palindromic-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1894-merge-strings-alternately) |
@@ -58,6 +59,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0443-string-compression) |
 | [0720-longest-word-in-dictionary](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0720-longest-word-in-dictionary) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1146-greatest-common-divisor-of-strings) |
