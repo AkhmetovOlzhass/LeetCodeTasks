@@ -26,6 +26,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0605-can-place-flowers) |
 | [0720-longest-word-in-dictionary](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0720-longest-word-in-dictionary) |
@@ -48,6 +49,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0443-string-compression) |
 | [1454-remove-palindromic-subsequences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1454-remove-palindromic-subsequences) |
