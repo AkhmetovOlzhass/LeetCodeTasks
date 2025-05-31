@@ -30,6 +30,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0283-move-zeroes](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0643-maximum-average-subarray-i) |
 | [0720-longest-word-in-dictionary](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0720-longest-word-in-dictionary) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -202,4 +203,8 @@ Each folder includes the problem description, my solution, and submission detail
 | [0011-container-with-most-water](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0605-can-place-flowers) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
