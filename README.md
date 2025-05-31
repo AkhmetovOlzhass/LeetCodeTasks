@@ -32,6 +32,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0605-can-place-flowers](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0643-maximum-average-subarray-i) |
 | [0720-longest-word-in-dictionary](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0720-longest-word-in-dictionary) |
+| [0724-find-pivot-index](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -98,6 +99,7 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1833-find-the-highest-altitude) |
 | [2145-grid-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2145-grid-game) |
