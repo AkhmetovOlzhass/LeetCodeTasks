@@ -39,6 +39,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1751-slowest-key](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1751-slowest-key) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1833-find-the-highest-altitude) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2048-build-array-from-permutation) |
@@ -98,6 +99,7 @@ Each folder includes the problem description, my solution, and submission detail
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1046-max-consecutive-ones-iii) |
+| [1833-find-the-highest-altitude](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1833-find-the-highest-altitude) |
 | [2145-grid-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2145-grid-game) |
 ## Sorting
 |  |
