@@ -32,6 +32,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0605-can-place-flowers](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0643-maximum-average-subarray-i) |
 | [0720-longest-word-in-dictionary](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0720-longest-word-in-dictionary) |
+| [1046-max-consecutive-ones-iii](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -95,6 +96,7 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1046-max-consecutive-ones-iii) |
 | [2145-grid-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2145-grid-game) |
 ## Sorting
 |  |
@@ -117,6 +119,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0374-guess-number-higher-or-lower) |
+| [1046-max-consecutive-ones-iii](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Interactive
 |  |
@@ -208,5 +211,6 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
