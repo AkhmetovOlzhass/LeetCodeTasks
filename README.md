@@ -82,6 +82,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [1454-remove-palindromic-subsequences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1454-remove-palindromic-subsequences) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1751-slowest-key](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1751-slowest-key) |
+| [1777-determine-if-two-strings-are-close](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -111,6 +112,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0016-3sum-closest](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0016-3sum-closest) |
 | [0720-longest-word-in-dictionary](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0720-longest-word-in-dictionary) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1777-determine-if-two-strings-are-close](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Simulation
@@ -141,6 +143,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [1319-unique-number-of-occurrences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1777-determine-if-two-strings-are-close](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -157,6 +160,7 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1777-determine-if-two-strings-are-close](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1777-determine-if-two-strings-are-close) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Trie
 |  |
