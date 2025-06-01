@@ -34,6 +34,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0720-longest-word-in-dictionary](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1046-max-consecutive-ones-iii) |
+| [1319-unique-number-of-occurrences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -137,6 +138,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0001-two-sum](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0001-two-sum) |
 | [0720-longest-word-in-dictionary](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0720-longest-word-in-dictionary) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1319-unique-number-of-occurrences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1798-max-number-of-k-sum-pairs) |
