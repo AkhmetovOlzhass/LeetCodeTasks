@@ -11,6 +11,7 @@ public:
             }
         }
         string res;
+        res.reserve(st.size());
         while (!st.empty()) {
             res.push_back(st.top());
             st.pop();
