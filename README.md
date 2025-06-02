@@ -33,6 +33,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0643-maximum-average-subarray-i](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0643-maximum-average-subarray-i) |
 | [0720-longest-word-in-dictionary](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0735-asteroid-collision) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -121,6 +122,7 @@ Each folder includes the problem description, my solution, and submission detail
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0735-asteroid-collision) |
 | [2048-build-array-from-permutation](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -175,6 +177,7 @@ Each folder includes the problem description, my solution, and submission detail
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0735-asteroid-collision) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2470-removing-stars-from-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
