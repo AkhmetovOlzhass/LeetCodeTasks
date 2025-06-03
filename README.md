@@ -76,6 +76,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0151-reverse-words-in-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0443-string-compression) |
 | [0720-longest-word-in-dictionary](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0720-longest-word-in-dictionary) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -177,6 +178,7 @@ Each folder includes the problem description, my solution, and submission detail
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0735-asteroid-collision) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2470-removing-stars-from-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2470-removing-stars-from-a-string) |
@@ -195,6 +197,7 @@ Each folder includes the problem description, my solution, and submission detail
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
