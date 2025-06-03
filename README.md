@@ -241,4 +241,16 @@ Each folder includes the problem description, my solution, and submission detail
 | [1046-max-consecutive-ones-iii](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
