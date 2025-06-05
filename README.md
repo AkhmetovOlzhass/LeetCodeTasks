@@ -198,6 +198,7 @@ Each folder includes the problem description, my solution, and submission detail
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -256,4 +257,8 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0969-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
