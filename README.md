@@ -69,6 +69,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [1468-check-if-n-and-its-double-exist](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -261,4 +262,5 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0206-reverse-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
