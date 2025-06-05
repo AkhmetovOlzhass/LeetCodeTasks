@@ -32,7 +32,7 @@ public:
         ListNode* temp = curr;
 
         while(curr != NULL){
-            if(posCounter == pos-1){
+            if(posCounter == pos-1 && curr->next != nullptr){
                 curr -> next = curr -> next-> next;
             }
             posCounter++;
