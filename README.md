@@ -276,18 +276,22 @@ Each folder includes the problem description, my solution, and submission detail
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
