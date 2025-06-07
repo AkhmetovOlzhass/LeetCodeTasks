@@ -98,6 +98,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2580-circular-sentence](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2580-circular-sentence) |
 | [3194-find-words-containing-character](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3194-find-words-containing-character) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## String Matching
 |  |
 | ------- |
@@ -164,6 +165,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [2428-equal-row-and-column-pairs](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2428-equal-row-and-column-pairs) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Math
 |  |
 | ------- |
@@ -191,6 +193,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -246,6 +249,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0605-can-place-flowers](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0649-dota2-senate) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Sliding Window
 |  |
 | ------- |
@@ -307,6 +311,7 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0215-kth-largest-element-in-an-array) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Quickselect
 |  |
 | ------- |
