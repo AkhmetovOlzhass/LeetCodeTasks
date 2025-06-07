@@ -26,6 +26,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0334-increasing-triplet-subsequence) |
@@ -119,6 +120,7 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0016-3sum-closest) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0215-kth-largest-element-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0720-longest-word-in-dictionary) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1777-determine-if-two-strings-are-close) |
@@ -297,4 +299,16 @@ Each folder includes the problem description, my solution, and submission detail
 | [0437-path-sum-iii](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
