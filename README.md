@@ -162,6 +162,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [1798-max-number-of-k-sum-pairs](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2413-smallest-number-in-infinite-set](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2428-equal-row-and-column-pairs) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -262,6 +263,7 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0969-number-of-recent-calls) |
+| [2413-smallest-number-in-infinite-set](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2413-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
@@ -318,9 +320,14 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0215-kth-largest-element-in-an-array) |
+| [2413-smallest-number-in-infinite-set](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2413-smallest-number-in-infinite-set) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0215-kth-largest-element-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
