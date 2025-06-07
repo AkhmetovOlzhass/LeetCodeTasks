@@ -2,9 +2,9 @@ class SmallestInfiniteSet {
 public:
     priority_queue<int, vector<int>, greater<int>> pq;
     unordered_set<int> added;
-    int cur = 1;
+    int cur;
     SmallestInfiniteSet() {
-        
+        cur = 1;
     }
     
     int popSmallest() {
