@@ -170,6 +170,7 @@ Each folder includes the problem description, my solution, and submission detail
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -211,6 +212,7 @@ Each folder includes the problem description, my solution, and submission detail
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1013-fibonacci-number) |
@@ -276,6 +278,7 @@ Each folder includes the problem description, my solution, and submission detail
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
