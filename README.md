@@ -287,6 +287,7 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0904-leaf-similar-trees) |
@@ -296,6 +297,7 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0904-leaf-similar-trees) |
@@ -305,11 +307,13 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0199-binary-tree-right-side-view) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0904-leaf-similar-trees) |
