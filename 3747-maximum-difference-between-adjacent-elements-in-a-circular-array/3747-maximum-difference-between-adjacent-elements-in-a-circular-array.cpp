@@ -10,7 +10,6 @@ public:
             }
             
             sum = nums[i] - nums[j];
-            cout << sum;
             j++;
             maxSum = max(maxSum, abs(sum));
 
