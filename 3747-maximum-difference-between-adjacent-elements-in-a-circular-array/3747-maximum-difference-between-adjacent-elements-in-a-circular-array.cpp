@@ -1,7 +1,8 @@
 class Solution {
 public:
     int maxAdjacentDistance(vector<int>& nums) {
-        int maxSum = INT_MIN;
+        if (nums.size() < 2) return 0;
+        int maxSum = 0;
         int sum = 0;
         for(int i = 0; i<nums.size();i++){
             int j = (i + 1) % nums.size();
