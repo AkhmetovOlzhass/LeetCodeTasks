@@ -54,6 +54,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [2428-equal-row-and-column-pairs](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2428-equal-row-and-column-pairs) |
 | [3194-find-words-containing-character](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3194-find-words-containing-character) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Two Pointers
 |  |
 | ------- |
