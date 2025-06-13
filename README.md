@@ -52,6 +52,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [2145-grid-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2428-equal-row-and-column-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3194-find-words-containing-character](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3194-find-words-containing-character) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -147,6 +148,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0374-guess-number-higher-or-lower](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Interactive
 |  |
 | ------- |
@@ -257,6 +259,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0605-can-place-flowers](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0649-dota2-senate) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Sliding Window
 |  |
