@@ -179,6 +179,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [1013-fibonacci-number](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -259,6 +260,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0334-increasing-triplet-subsequence](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0649-dota2-senate) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
