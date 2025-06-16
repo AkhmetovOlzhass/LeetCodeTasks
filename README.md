@@ -49,6 +49,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2058-concatenation-of-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2428-equal-row-and-column-pairs) |
