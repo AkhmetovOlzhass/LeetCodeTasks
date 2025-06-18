@@ -18,8 +18,7 @@ public:
 
             res.push_back(temp);
         } else{
-            vector<vector<int>> res2;
-            return res2;
+            return {};
         }
     }
 
