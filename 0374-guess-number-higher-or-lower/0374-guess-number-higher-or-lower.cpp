@@ -14,14 +14,14 @@ public:
         int last = n;
 
         while(first <= last){
-            int mid = first + (first + last)/2;
+            int mid = first + (last-first)/2;
 
             if(guess(mid) == 0){
                 return mid;
             } else if(guess(mid) == -1){
-                first = mid -1;
+                last = mid -1;
             } else{
-                last = mid+1;
+                first = mid+1;
             }
         }
 
