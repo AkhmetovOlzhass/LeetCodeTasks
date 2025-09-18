@@ -1,11 +1,10 @@
 class Solution(object):
     def defangIPaddr(self, address):
         res = ""
-        for i in range(len(address)):
-            
-            if(address[i] == '.'):
+        for i in address:
+            if(i == '.'):
                 res += "[.]"
             else:
-                res += address[i]
+                res += i
 
         return res
