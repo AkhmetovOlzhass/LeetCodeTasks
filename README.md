@@ -92,6 +92,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0720-longest-word-in-dictionary](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0720-longest-word-in-dictionary) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1205-defanging-an-ip-address](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1454-remove-palindromic-subsequences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1454-remove-palindromic-subsequences) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
