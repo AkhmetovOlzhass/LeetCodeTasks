@@ -50,6 +50,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -99,6 +100,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [1894-merge-strings-alternately](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2470-removing-stars-from-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -142,6 +144,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0735-asteroid-collision](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0735-asteroid-collision) |
 | [2048-build-array-from-permutation](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2428-equal-row-and-column-pairs](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2470-removing-stars-from-a-string) |
