@@ -106,6 +106,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2580-circular-sentence](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2580-circular-sentence) |
 | [3194-find-words-containing-character](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3194-find-words-containing-character) |
+| [3379-score-of-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3379-score-of-a-string) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
