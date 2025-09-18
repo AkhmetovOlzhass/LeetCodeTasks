@@ -193,6 +193,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2556-convert-the-temperature](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2556-convert-the-temperature) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Counting
 |  |
