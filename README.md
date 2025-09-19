@@ -198,6 +198,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2556-convert-the-temperature](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2556-convert-the-temperature) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3830-find-closest-person](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/3830-find-closest-person) |
 ## Counting
 |  |
 | ------- |
