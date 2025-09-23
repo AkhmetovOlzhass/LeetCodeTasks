@@ -36,6 +36,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0720-longest-word-in-dictionary](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0739-daily-temperatures) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -218,6 +219,7 @@ Each folder includes the problem description, my solution, and submission detail
 | ------- |
 | [0394-decode-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2470-removing-stars-from-a-string) |
@@ -226,6 +228,7 @@ Each folder includes the problem description, my solution, and submission detail
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Dynamic Programming
 |  |
