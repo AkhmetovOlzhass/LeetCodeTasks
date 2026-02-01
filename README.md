@@ -32,6 +32,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0283-move-zeroes](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0399-evaluate-division) |
+| [0485-max-consecutive-ones](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0643-maximum-average-subarray-i) |
 | [0720-longest-word-in-dictionary](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0720-longest-word-in-dictionary) |
