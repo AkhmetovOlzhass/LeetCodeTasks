@@ -39,6 +39,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0724-find-pivot-index](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0739-daily-temperatures) |
+| [1004-max-consecutive-ones-iii](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -137,6 +138,7 @@ Each folder includes the problem description, my solution, and submission detail
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1833-find-the-highest-altitude) |
 | [2145-grid-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2145-grid-game) |
@@ -170,6 +172,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0374-guess-number-higher-or-lower) |
+| [1004-max-consecutive-ones-iii](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -301,6 +304,7 @@ Each folder includes the problem description, my solution, and submission detail
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1046-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
