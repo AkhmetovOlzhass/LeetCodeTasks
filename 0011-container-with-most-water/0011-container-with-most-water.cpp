@@ -1,24 +1,23 @@
 class Solution {
 public:
     int maxArea(vector<int>& height) {
-        int p1 = 0;
-        int p2 = height.size()-1;
+        int a = 0;
+        int b = height.size()-1;
 
         int max = 0;
-
-        while(p1 < p2){
-            int s = 0;  
-            int n = p2-p1;
-
-            s= n * min(height[p1], height[p2]);
-
-            if(max< s){
-                max = s;
-            }
-            if(height[p1] > height[p2]){
-                p2--;
+        while(a<b){
+            int temp = 0;
+            int l = b-a;
+            if(height[a] > height[b]){
+                temp = l * height[b];
+                b--;
             } else{
-                p1++;
+                temp = l*height[a];
+                a++;
+            }
+
+            if(temp > max){
+                max = temp;
             }
         }
 
