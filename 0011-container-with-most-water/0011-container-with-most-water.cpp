@@ -6,13 +6,12 @@ public:
 
         int max = 0;
         while(a<b){
-            int temp = 0;
+            
             int l = b-a;
+            int temp = l * min(height[a], height[b]);
             if(height[a] > height[b]){
-                temp = l * height[b];
                 b--;
             } else{
-                temp = l*height[a];
                 a++;
             }
 
