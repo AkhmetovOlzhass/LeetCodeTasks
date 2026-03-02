@@ -1,11 +1,11 @@
 class Solution {
 public:
     int longestSubarray(vector<int>& nums) {
-        int sum = 0;
+        int best = 0;
         int r = 0;
         int zeros = 0;
         for(int i = 0; i<nums.size(); i++){
-            if(nums[i] != 1){
+            if(nums[i] == 0){
                 zeros++;
             } 
 
@@ -17,9 +17,9 @@ public:
                 r++;
             }
 
-            sum = max(sum, i-r);
+            best = max(best, i-r);
         }
 
-        return sum;
+        return best;
     }
 };
