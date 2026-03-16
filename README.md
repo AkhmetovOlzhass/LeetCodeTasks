@@ -50,6 +50,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [1580-shuffle-the-array](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1732-find-the-highest-altitude) |
 | [1751-slowest-key](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1751-slowest-key) |
 | [1791-richest-customer-wealth](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -142,6 +143,7 @@ Each folder includes the problem description, my solution, and submission detail
 | [0724-find-pivot-index](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1046-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1732-find-the-highest-altitude) |
 | [1833-find-the-highest-altitude](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/1833-find-the-highest-altitude) |
 | [2145-grid-game](https://github.com/AkhmetovOlzhass/LeetCodeTasks/tree/master/2145-grid-game) |
 ## Sorting
